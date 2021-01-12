@@ -6,7 +6,7 @@ As we push the push button a random number from 1 to 6 comes up on the 7 segment
 
 
 # The circuit diagram of the dice is- 
-![jpg1](Resources/DigitalDiceCkt.jpg)
+![jpg1](Resources/DigitalDiceCkt.JPG)
 
 # A simulation of the working of the dice-
 ![gif1](Resources/DigitalDicegif.gif)
